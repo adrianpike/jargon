@@ -1,0 +1,1 @@
+**Yoda Conditions** - using if(constant == variable) instead of if(variable == constant), like if(4 == foo). Because it's like saying "if blue is the sky" or "if tall is the man". [zneak](http://stackoverflow.com/a/2430307)
